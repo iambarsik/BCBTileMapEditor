@@ -1,8 +1,12 @@
 object Form1: TForm1
-  Left = 292
-  Top = 207
+  Left = 266
+  Top = 156
   Width = 1251
-  Height = 610
+  Height = 644
+  HorzScrollBar.ButtonSize = 15
+  HorzScrollBar.Smooth = True
+  HorzScrollBar.ThumbSize = 15
+  HorzScrollBar.Tracking = True
   Caption = #1056#1077#1076#1072#1082#1090#1086#1088' '#1082#1072#1088#1090
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET

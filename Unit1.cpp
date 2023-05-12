@@ -133,7 +133,7 @@ this->Caption=IntToStr(mbL);   */
 
 void __fastcall TForm1::FormResize(TObject *Sender)
 {
-        StringGrid1->Width = this->Width - StringGrid1->Left - 50;        
+        //StringGrid1->Width = this->Width - StringGrid1->Left - 50;        
 }
 //---------------------------------------------------------------------------
 
